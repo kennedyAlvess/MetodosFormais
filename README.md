@@ -5,5 +5,5 @@ Visando otimizar a alocação de recursos e a distribuição eficiente das ativi
 
 A plataforma do projeto permitira criar e programar horários para cada turma, levando em conta a disponibilidade dos professores. Além disso, o sistema fornecerá funcionalidades para garantir que os horários sejam respeitados e, caso necessário, permitirá ajustes e reprogramações.
 
-O uso dessa solução resultará em diversos benefícios, como a maximização do aproveitamento dos recursos disponíveis, a redução de conflitos de horários, a melhoria da experiência dos professores ao evitar sobreposições indesejadas e o aumento da eficiência administrativa do curso. Ao automatizar e aprimorar o gerenciamento de horários, o projeto contribuirá para uma melhor organização e planejamento do curso.
+<p align="justify">O uso dessa solução resultará em diversos benefícios, como a maximização do aproveitamento dos recursos disponíveis, a redução de conflitos de horários, a melhoria da experiência dos professores ao evitar sobreposições indesejadas e o aumento da eficiência administrativa do curso. Ao automatizar e aprimorar o gerenciamento de horários, o projeto contribuirá para uma melhor organização e planejamento do curso.</p>
 
