@@ -1,4 +1,4 @@
-# Projeto da disciplina de Métodos formais de engenhar de software.
+# Projeto da disciplina de Métodos formais de engenharia de software.
 O projeto proposto visa desenvolver um sistema de gerenciamento de horários para turmas do curso do Bacharelado em Tecnologia da Informação (BTI) do Campus Pau dos Ferros (CMPF) da Universidade Federal Rural do Semi-Árido (UFERSA). 
 
 Visando otimizar a alocação de recursos e a distribuição eficiente das atividades acadêmicas. O sistema será projetado para atender às necessidades específicas do curso, considerando a disponibilidade de professores.
