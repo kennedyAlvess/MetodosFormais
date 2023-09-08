@@ -9,10 +9,7 @@
 <li><strong><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/2ª%20UNIDADE/Versão%20inicial%20do%20artigo%20-%202ª%20Unidade.pdf">Versão inicial do artigo.</a></strong></li>
 
 
-
-
-
-<p align="justify">O projeto proposto visa desenvolver um sistema de gerenciamento de
+</br><p align="justify">O projeto proposto visa desenvolver um sistema de gerenciamento de
 horários para turmas do curso do Bacharelado em Tecnologia da Informação (BTI)
 do Campus Pau dos Ferros (CMPF) da Universidade Federal Rural do Semi-Árido
 (UFERSA).<br/>
