@@ -17,3 +17,6 @@ melhoria da experiência dos professores ao evitar sobreposições indesejadas e
 aumento da eficiência administrativa do curso. Ao automatizar e aprimorar o
 gerenciamento de horários, o projeto contribuirá para uma melhor organização e
 planejamento do curso.</p></br>
+
+<h3><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/Projeto%20Métodos%20Formais%20-%201ª%20Unidade.pdf">1. Entrega parcial Primeira Unidade.</a></h3>
+<h3><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/Projeto%20Métodos%20Formais%20-%202ª%20Unidade.pdf">2. Entrega parcial Segunda Unidade.</a></h3>
