@@ -9,7 +9,7 @@
 <li><strong><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/2ª%20UNIDADE/Versão%20inicial%20do%20artigo%20-%202ª%20Unidade.pdf">Versão inicial do artigo.</a></strong></li>
 
 ### <a href="https://github.com/kennedyAlvess/MetodosFormais/tree/main/3ª%20UNIDADE">3 - </a> Terceira Unidade
-<li><strong><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/3ª%20UNIDADE/Projeto%20Métodos%20Formais%20-%203ª%20Unidade.pdf">Entrega final Segunda Unidade.</a></strong></li>
+<li><strong><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/3ª%20UNIDADE/Projeto%20Métodos%20Formais%20-%203ª%20Unidade.pdf">Entrega final Terceira Unidade.</a></strong></li>
 <li><strong><a href="https://github.com/kennedyAlvess/MetodosFormais/blob/main/3ª%20UNIDADE/Versão%20final%20do%20artigo%20-%203ª%20Unidade.pdf">Versão final do artigo.</a></strong></li>
 <li><strong><a href="https://github.com/kennedyAlvess/ProjetoHorario">Software desenvolvido.</a></strong></li>
 
